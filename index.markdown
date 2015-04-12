@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Welcome!
 ---
 
@@ -6,4 +7,4 @@ title: Welcome!
 
 Welcome to Teaching Politics!
 
-You can see the [About](./about.html) page here: <./about.html>
+You can see the [About](./about) page here: <./about.html>
