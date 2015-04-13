@@ -1,5 +1,6 @@
 ---
-title: About
+layout: default
+title: Welcome!
 ---
 
 # About
