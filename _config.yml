@@ -9,8 +9,9 @@ relative_permalinks: true
 # Setup
 title:            Teaching politics
 # tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+# description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'Teaching political science.'
+url:              http://teaching-politics.github.io/
 baseurl:          /
 timezone:         America/Denver
 
@@ -18,7 +19,7 @@ author:
   name:           'Michael Broschinsky'
   url:            https://twitter.com/mdo
 
-paginate:         5
+paginate:         2
 
 # Custom vars
 version:          2.1.0
