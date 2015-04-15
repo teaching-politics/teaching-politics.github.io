@@ -19,12 +19,11 @@ author:
   name:           'Michael Broschinsky'
   url:            https://twitter.com/mdo
 
-paginate:         2
-paginate_path: "/blog/page:num/"
+paginate:         5
 
 # Custom vars
-version:          2.1.0
+# version:          2.1.0
 
 github:
 #  repo:           https://github.com/poole/hyde
-   repo:           http://teaching-politics.github.io/
+   repo:           https://github.com/teaching-politics/
