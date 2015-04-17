@@ -11,5 +11,5 @@ email: your-email@domain.com
 # github_username:  jekyll
 
 # Build settings
-markdown: kramdown
-highlighter: rouge
+# markdown: kramdown
+# highlighter: rouge
