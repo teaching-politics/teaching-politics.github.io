@@ -1,29 +1,14 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+# Site settings
+title: Your awesome title
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
 
-# Permalinks
-permalink:        pretty
-relative_permalinks: true
-
-# Setup
-title:            Teaching politics
-# tagline:          'A Jekyll theme'
-# description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-description:      'Teaching political science.'
-url:              http://teaching-politics.github.io/
-baseurl:          /
-timezone:         America/Denver
-
-author:
-  name:           'Michael Broschinsky'
-  url:            https://twitter.com/mdo
-
-paginate:         5
-
-# Custom vars
-# version:          2.1.0
-
-github:
-#  repo:           https://github.com/poole/hyde
-   repo:           https://github.com/teaching-politics/
+# Build settings
+markdown: kramdown
